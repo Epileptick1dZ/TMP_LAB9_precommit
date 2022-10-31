@@ -8,9 +8,9 @@ namespace TMP_LAB9_precommit
         {
 
             Console.WriteLine("PASSWORD");
-            Console.WriteLine("PASSWORD HELLO WORLD PASSWORD");
-            Console.WriteLine(                 " =PASSWORD- HELLO WORLD _PASSWORD_");
-            Console.WriteLine("{PASSWORD} = PASSWORD shel ");
+            Console.WriteLine("PASSWORD HELLO WORLD");
+            Console.WriteLine(                 " =PASSWORD- HELLO WORLD");
+            Console.WriteLine("{PASSWORD} = shel ");
         }
     }
 }
