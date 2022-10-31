@@ -1,0 +1,16 @@
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\bin\Debug\net5.0\TMP_LAB9_precommit.exe
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\bin\Debug\net5.0\TMP_LAB9_precommit.deps.json
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\bin\Debug\net5.0\TMP_LAB9_precommit.runtimeconfig.json
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\bin\Debug\net5.0\TMP_LAB9_precommit.runtimeconfig.dev.json
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\bin\Debug\net5.0\TMP_LAB9_precommit.dll
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\bin\Debug\net5.0\ref\TMP_LAB9_precommit.dll
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\bin\Debug\net5.0\TMP_LAB9_precommit.pdb
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\TMP_LAB9_precommit.csproj.AssemblyReference.cache
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\TMP_LAB9_precommit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\TMP_LAB9_precommit.AssemblyInfoInputs.cache
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\TMP_LAB9_precommit.AssemblyInfo.cs
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\TMP_LAB9_precommit.csproj.CoreCompileInputs.cache
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\TMP_LAB9_precommit.dll
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\ref\TMP_LAB9_precommit.dll
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\TMP_LAB9_precommit.pdb
+C:\Users\kd-25\source\repos\TMP_LAB9_precommit\obj\Debug\net5.0\TMP_LAB9_precommit.genruntimeconfig.cache
