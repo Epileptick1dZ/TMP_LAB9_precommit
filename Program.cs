@@ -6,7 +6,11 @@ namespace TMP_LAB9_precommit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("PASSWORD");
+            Console.WriteLine("PASSWORD HELLO WORLD PASSWORD");
+            Console.WriteLine("=PASSWORD- HELLO WORLD _PASSWORD_");
+            Console.WriteLine("{PASSWORD} = PASSWORD shel ");
         }
     }
 }
